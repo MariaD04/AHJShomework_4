@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/bisgwj66j09agaud?svg=true)](https://ci.appveyor.com/project/MariaD04/ahjshomework-4)
+![CI](https://github.com/MariaD04/AHJShomework_4/actions/workflows/web.yml/badge.svg)

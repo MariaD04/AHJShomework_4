@@ -38,6 +38,12 @@ jobs:
       - name: Build
         run: npm run build
 
+      - name: Run test
+        run: npm run test
+
+      - name: Run test
+        run: npm run e2e
+
       - name: Setup Pages
         uses: actions/configure-pages@v2
 
