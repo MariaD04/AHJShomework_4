@@ -27,7 +27,7 @@ h3 {
 }
 
 .card.visa {
-    background-image: url(../img/card-visa.gif)
+    background-image: url(../img/card-visa3.png)
 }
 
 .card.amex {
@@ -39,21 +39,17 @@ h3 {
 }
 
 .card.master {
-    background-image: url(../img/card-mastercard.gif)
+    background-image: url(../img/card-mastercard3.png)
 }
 
 .card.discover {
-    background-image: url(../img/card-discover.gif)
+    background-image: url(../img/card-discover3.png)
 }
 
 .card.mir {
     background-image: url(../img/card-mir3.png);
     border: 1px solid transparent;
     border-radius: 1px;
-}
-
-.card.diners_club {
-    background-image: url(../img/card-diners.gif)
 }
 
 .control {
